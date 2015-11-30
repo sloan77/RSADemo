@@ -11,9 +11,9 @@ this is a github test project
 
 支持三种访问协议：
 
-* HTTP协议: `https://github.com/lunny7/RSADemo.git` 。
-* Git协议: `git://github.com/lunny7/RSADemo.git` 。
-* SSH协议: `ssh://github.com/lunny7/RSADemo.git` 。
+* HTTP协议: `https://github.com/lunny77/RSADemo.git` 。
+* Git协议: `git://github.com/lunny77/RSADemo.git` 。
+* SSH协议: `ssh://github.com/lunny77/RSADemo.git` 。
 
 ## 克隆版本库
 
